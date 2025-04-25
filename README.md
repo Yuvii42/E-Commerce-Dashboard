@@ -9,6 +9,9 @@ I've created an interactive dashboard using Power BI that allows for effective t
 🛠️ Learned how to create connections, join tables, and use dynamic calculations to make the data more user-friendly and actionable.
 🎨 Experimented with various visualizations like bar charts, pie charts, scatter plots, line graphs, and maps to present the data in engaging ways.
 
+![image](https://github.com/user-attachments/assets/448ce871-a82f-455c-9d2f-baad3d184b4d)
+
+
 This project has been an incredible learning experience, helping me refine my skills in analytics and storytelling through data. I'm excited to apply what I've learned to future endeavors! 🛣️ 
 
 If you're passionate about data visualization and statistics, I’d love to connect!
